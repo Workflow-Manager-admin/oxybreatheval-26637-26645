@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for OxyBreathEval', 'description': 'Primary container for OxyBreathEval implementation: A breathing assessment tool that measures oxygen tolerance and breathing efficiency by tracking the duration of breath-holding after a normal exhale.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
